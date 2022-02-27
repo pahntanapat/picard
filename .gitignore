@@ -22,6 +22,7 @@ doc/modules/generated/
 doc/datasets/generated/
 pip-log.txt
 picard.egg-info/
+python_picard.egg-info/
 .tags
 tags
 .coverage

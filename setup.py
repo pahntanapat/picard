@@ -66,7 +66,7 @@ if __name__ == "__main__":
               'numpy',
               'scipy',
               'numexpr',
-              'scikit-learn'
+              # 'scikit-learn'
           ],
           packages=package_tree('picard'),
           )

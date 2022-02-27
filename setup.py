@@ -65,8 +65,7 @@ if __name__ == "__main__":
           install_requires=[
               'numpy',
               'scipy',
-              'numexpr',
-              # 'scikit-learn'
+              'numexpr'
           ],
           packages=package_tree('picard'),
           )

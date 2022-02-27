@@ -23,6 +23,7 @@ doc/datasets/generated/
 pip-log.txt
 picard.egg-info/
 python_picard.egg-info/
+python_picard_no_sklearn.egg-info/
 .tags
 tags
 .coverage
